@@ -30,7 +30,7 @@ const config: Config = {
         'green-dark': '#1C2015',
         'blue': '#7B94CB',
         'blue-dark': '#1A1D23',
-      }
+      },
     },
   },
   plugins: [],
